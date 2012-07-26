@@ -61,14 +61,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\src\Individu.cpp" />
+    <ClCompile Include="..\..\src\NWorld.cpp" />
     <ClCompile Include="..\..\src\Poblacio.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\src\Individu.hpp" />
+    <ClInclude Include="..\..\src\NWorld.hpp" />
     <ClInclude Include="..\..\src\Poblacio.hpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
