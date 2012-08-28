@@ -9,7 +9,10 @@ class Poblacio
 {
 public:
 	Poblacio();
+	Poblacio(const unsigned int nIndividuals);
 	~Poblacio();
+
+	void populate(const unsigned int nIndividuals);
 
 private:
 
