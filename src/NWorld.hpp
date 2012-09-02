@@ -26,6 +26,7 @@ private:
 	// Internal parameters of the world
 	unsigned int turn;
 	unsigned int nIndividuals;
+	unsigned int nCompanies;
 };
 
 #endif
