@@ -74,6 +74,7 @@
   <ItemGroup>
     <ClInclude Include="..\..\src\Element.hpp" />
     <ClInclude Include="..\..\src\Empresa.hpp" />
+    <ClInclude Include="..\..\src\Estadistica.hpp" />
     <ClInclude Include="..\..\src\Individu.hpp" />
     <ClInclude Include="..\..\src\NWorld.hpp" />
     <ClInclude Include="..\..\src\Poblacio.hpp" />
